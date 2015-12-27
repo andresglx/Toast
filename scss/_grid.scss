@@ -183,7 +183,7 @@ $toast-pulls: true !default;
 .#{$toast-grid-column-namespace} {
   box-sizing: border-box;
   display: inline-block;
-  margin-right: -.25em;
+  margin-right: -.3125em;
   min-height: 1px;
   padding-left: $toast-gutter-width;
   vertical-align: top;
